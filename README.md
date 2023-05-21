@@ -3,11 +3,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=t-ooka&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-ooka&theme=tokyonight" />
-</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=t-ooka&theme=tokyonight&column=7
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-ooka&layout=compact" />
+</a> -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=t-ooka&theme=tokyonight&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
