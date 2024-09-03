@@ -8,8 +8,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-ooka&layout=compact" />
 </a> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=t-ooka&theme=tokyonight&column=8
-)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **t-ooka/t-ooka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
